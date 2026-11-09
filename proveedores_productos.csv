@@ -1,0 +1,8 @@
+tipo,id,nombre,ciudad,sector,categoria,requiere_refrigeracion
+Proveedor,P01,Lácteos del Valle SAS,Cali,Alimentos,,
+Proveedor,P02,Café Andino Exportaciones,Pereira,Agroindustria,,
+Proveedor,P03,Textiles Antioquia SA,Medellín,Textil,,
+Producto,PR01,Yogurt refrigerado,,,Lácteos,true
+Producto,PR02,Pulpa de fruta congelada,,,Frutas,true
+Producto,PR03,Café pergamino,,,Agrícola,false
+Producto,PR04,Tela de algodón,,,Textil,false
