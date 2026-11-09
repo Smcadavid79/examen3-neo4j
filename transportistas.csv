@@ -1,0 +1,7 @@
+id,nombre,nit,flota,modalidad
+T01,Transportes Andinos S.A.S.,900123456,85,terrestre
+T02,Logística Caribe Ltda.,900234567,40,terrestre
+T03,Carga Pacífico S.A.,900345678,60,terrestre
+T04,Express Antioquia S.A.S.,900456789,35,terrestre
+T05,Fluvial del Magdalena S.A.,900567890,18,fluvial
+T06,Aerocarga Colombia S.A.S.,900678901,12,aérea

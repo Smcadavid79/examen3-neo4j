@@ -1,0 +1,9 @@
+id,nombre,ciudad,departamento,tipo,capacidad_ton,fecha_apertura,servicios
+C01,Puerto de Buenaventura,Buenaventura,Valle del Cauca,puerto,12000,1998,"aduana,contenedores,refrigeración"
+C02,Centro Logístico Cali,Cali,Valle del Cauca,hub,8000,2005,"cross-docking,refrigeración"
+C03,Hub Bogotá Fontibón,Bogotá,Cundinamarca,hub,15000,2008,"cross-docking,aduana,última milla"
+C04,Bodega Medellín,Medellín,Antioquia,bodega,6000,2010,"almacenamiento,última milla"
+C05,Puerto de Cartagena,Cartagena,Bolívar,puerto,18000,1995,"aduana,contenedores,granel"
+C06,Puerto de Barranquilla,Barranquilla,Atlántico,puerto,10000,2001,"aduana,granel,fluvial"
+C07,Centro Bucaramanga,Bucaramanga,Santander,bodega,4000,2014,"almacenamiento,cross-docking"
+C08,Bodega Pereira,Pereira,Risaralda,bodega,3500,2012,"almacenamiento,refrigeración"
